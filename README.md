@@ -14,7 +14,7 @@ To isntall the package, run
 
 (Be careful to include the leading `./`). The Permission Denied warning at the end of the install is just a warming, and can be safely ignored.
 
-Original sources for GxPlugins.lv2 are avialable at: https://github.com/brummer10/gxplugins.lv2
+Original sources for GxPlugins.lv2 are availabe at: https://github.com/brummer10/gxplugins.lv2
 
 
 
